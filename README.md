@@ -77,7 +77,7 @@ Wplace-Pumpkings-Bot/
 
 ```json
 {
-  "repeat_delay": 300,
+  "repeat_delay": 1200,
   "max_threads": 3,
   "claim_delay": 2,
   "headless": false
