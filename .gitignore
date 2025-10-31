@@ -1,0 +1,4 @@
+__pycache__
+config/accounts.txt
+data/URLS.txt
+data/claimed.json
