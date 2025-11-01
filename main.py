@@ -276,12 +276,17 @@ class Runner:
 
             # Launch new ones if we have room
             while len(active_threads) < self.config.max_threads and not account_queue.empty():
+
                 token = account_queue.get()
-                bot = ClaimBot(token, self.urls, self.config)
-                t = threading.Thread(target=bot.run, name=f"Bot-{token[:8]}")
-                t.start()
-                active_threads.append(t)
-                print(f"[Runner] Started new session ({len(active_threads)}/{self.config.max_threads})")
+
+                for number, url in self.urls.urls:
+                    if not (number and self.urls.is_claimed(token, number)):
+                        bot = ClaimBot(token, self.urls, self.config)
+                        t = threading.Thread(target=bot.run, name=f"Bot-{token[:8]}")
+                        t.start()
+                        active_threads.append(t)
+                        print(f"[Runner] Started new session ({len(active_threads)}/{self.config.max_threads})")
+                        break
 
             time.sleep(1)  # small delay to prevent busy loop
 
