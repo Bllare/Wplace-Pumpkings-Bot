@@ -111,6 +111,7 @@ If this bot helped you and you want to support future development, you can send 
 | **ETH** | Ethereum (ERC-20) | `0xc7345f4688adC3bD07668eE151779B77137adb8A` |
 | **USDT** | TRON (TRC-20) | `TRYZfe7Cm8kDYCejwbHY3CT156uFGFUN3c` |
 | **TON** | TON | `UQCWnfQqZNIFGUytEdsMxFmAZxIsTh2YdGAcM8G1Qe7uHBoK` |
+| **LTC** | LTC | `ltc1ql9yzy9qmappr6mmqa79yad7ga2p4m5vw5wkwp4` |
 
 **Quick Pay (TrustWallet links):**
 
@@ -118,6 +119,7 @@ If this bot helped you and you want to support future development, you can send 
 - [ETH (ERC-20)](https://link.trustwallet.com/send?coin=60&address=0xc7345f4688adC3bD07668eE151779B77137adb8A)
 - [USDT (TRC-20)](https://link.trustwallet.com/send?coin=195&address=TRYZfe7Cm8kDYCejwbHY3CT156uFGFUN3c&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t)
 - [TON](https://link.trustwallet.com/send?coin=607&address=UQCWnfQqZNIFGUytEdsMxFmAZxIsTh2YdGAcM8G1Qe7uHBoK)
+- [LTC](https://link.trustwallet.com/send?coin=2&address=ltc1ql9yzy9qmappr6mmqa79yad7ga2p4m5vw5wkwp4)
 
 > Note: USDT is TRON (TRC20), not ERC20.
 
