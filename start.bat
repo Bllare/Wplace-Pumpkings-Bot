@@ -1,6 +1,6 @@
 @echo off
 title WPlace Auto Claimer Bot
-echo 🚀 Starting WPlace Auto Claimer Bot...
+echo Starting WPlace Auto Claimer Bot...
 
 REM --- Install dependencies ---
 echo Installing required packages...
@@ -11,5 +11,5 @@ echo Launching bot...
 call python main.py
 
 echo.
-echo ✅ Bot finished running.
+echo Bot finished running.
 pause
