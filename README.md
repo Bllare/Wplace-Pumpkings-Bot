@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This bot is not affiliated with [WPlace.live](https://wplace.live/). While it has not caused bans so far, its use may violate the site's rules. The developers are not responsible for any account penalties. Use at your own risk.
+
 # 🎃 WPlace Auto Claimer Bot
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-3910)
