@@ -99,3 +99,26 @@ Wplace-Pumpkings-Bot/
 If you use or modify this code, **credit is required** in your README or source.
 
 > Made with ☕ + 🎃 + 💻 — for research and educational purposes only.
+
+
+## ❤️ Support This Project
+
+If this bot helped you and you want to support future development, you can send a small tip 💛
+
+| Coin | Network | Address |
+|------|---------|---------|
+| **BTC** | Bitcoin | `bc1qh7f9z5qh0c0ss6887034qhg9es8h4dc0exng95` |
+| **ETH** | Ethereum (ERC-20) | `0xc7345f4688adC3bD07668eE151779B77137adb8A` |
+| **USDT** | TRON (TRC-20) | `TRYZfe7Cm8kDYCejwbHY3CT156uFGFUN3c` |
+| **TON** | TON | `UQCWnfQqZNIFGUytEdsMxFmAZxIsTh2YdGAcM8G1Qe7uHBoK` |
+
+**Quick Pay (TrustWallet links):**
+
+- [BTC](https://link.trustwallet.com/send?coin=0&address=bc1qh7f9z5qh0c0ss6887034qhg9es8h4dc0exng95)
+- [ETH (ERC-20)](https://link.trustwallet.com/send?coin=60&address=0xc7345f4688adC3bD07668eE151779B77137adb8A)
+- [USDT (TRC-20)](https://link.trustwallet.com/send?coin=195&address=TRYZfe7Cm8kDYCejwbHY3CT156uFGFUN3c&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t)
+- [TON](https://link.trustwallet.com/send?coin=607&address=UQCWnfQqZNIFGUytEdsMxFmAZxIsTh2YdGAcM8G1Qe7uHBoK)
+
+> Note: USDT is TRON (TRC20), not ERC20.
+
+Thank you 🙏
