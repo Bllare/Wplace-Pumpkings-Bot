@@ -1,8 +1,8 @@
 # 🎃 WPlace Auto Claimer Bot
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/downloads/release/python-3910)
 [![Selenium](https://img.shields.io/badge/Automation-Selenium-orange.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Bllare/Wplace-Pumpkings-Bot/blob/main/LICENSE)
 
 > 🧩 Automatically claims **pumpkins** on [wplace.live](https://wplace.live)  
 > Supports multiple accounts, threading, and live pumpkin fetching.
