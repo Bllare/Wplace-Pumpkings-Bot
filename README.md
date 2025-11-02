@@ -11,6 +11,11 @@
 > Supports multiple accounts, threading, and live pumpkin fetching.
 
 ---
+# Demp
+[![Demo video](https://img.youtube.com/vi/F3xKhxbk7_o/0.jpg)](https://www.youtube.com/watch?v=F3xKhxbk7_o)
+
+
+---
 
 ## ⚡ Features
 - 🔁 Auto-updates pumpkin URLs (`extract_urls.py` → `data/URLS.txt`)  
