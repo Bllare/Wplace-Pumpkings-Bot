@@ -11,7 +11,7 @@
 > Supports multiple accounts, threading, and live pumpkin fetching.
 
 ---
-# Demp
+# Demo
 [![Demo video](https://img.youtube.com/vi/F3xKhxbk7_o/0.jpg)](https://www.youtube.com/watch?v=F3xKhxbk7_o)
 
 
