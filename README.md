@@ -11,9 +11,17 @@
 > Supports multiple accounts, threading, and live pumpkin fetching.
 
 ---
-# Demo
-[![Demo video](https://img.youtube.com/vi/F3xKhxbk7_o/0.jpg)](https://www.youtube.com/watch?v=F3xKhxbk7_o)
+## 🎥 Demo Preview
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=F3xKhxbk7_o" target="_blank">
+    <img src="https://img.youtube.com/vi/F3xKhxbk7_o/mqdefault.jpg" alt="Demo video">
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <b>Click the thumbnail to watch the demo video on YouTube</b>
+</p>
 
 ---
 
