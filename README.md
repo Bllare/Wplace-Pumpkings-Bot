@@ -51,6 +51,7 @@ config/accounts.txt
 Then run the bot:
 
 ```bash
+pip install -r requirements.txt
 python main.py
 ```
 
